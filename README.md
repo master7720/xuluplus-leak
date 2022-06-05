@@ -10,6 +10,6 @@
 |__/  |__/ \______/ |________/ \______/ |__/      |________/ \______/  \______/       |______/|__/ \______/|__/ \______/ 
 ```
 
-This is the full decompiled Xulu v1.5.2 src code coupled with the deobfuscated jar.
+This is the full cracked version XuluPlus 1.0.5 with the deobfuscated jar.
 
 Enjoy.
